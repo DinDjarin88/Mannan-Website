@@ -14,7 +14,10 @@ function PersonalIntro() {
                     </text>
                 </div>
             </div>
-            <hr className="menu-bar"></hr>
+            <div className="bar-contain">
+                <hr className="landing-menu-bar"></hr>
+            </div>
+
             <text className="mannan-intro"> This site has been made from scratch by me, and has been written in React.
             </text>
         </>
