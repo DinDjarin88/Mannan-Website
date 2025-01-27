@@ -11,7 +11,7 @@ import PCBsoldered from '../../assets/PCBsoldered.png'
 import PCBperf1 from '../../assets/PCBperf1.png'
 import PCBperf2 from '../../assets/PCBperf2.png'
 import PCBbreadboard from '../../assets/PCBbreadboard.png'
-import PCBvideo from '../../assets/Pcbvideo.mp4'
+import PCBvideo from '../../assets/PCBvideo.mp4'
 
 
 import ReactPlayer from 'react-player';
