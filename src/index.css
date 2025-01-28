@@ -297,7 +297,7 @@ ol.process {
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 1000px) {
   :root {
     font-size: 12px;
   }
@@ -315,8 +315,8 @@ ol.process {
     margin: 0.5rem 0;
   }
   .photo {
-    flex: 0 0 100%;
-    max-width: 100%;
+    flex: 0 1 100%;
+    max-width: 50%;
     margin-right: 0;
     margin-bottom: 1.25rem;
   }
