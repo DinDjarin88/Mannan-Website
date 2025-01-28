@@ -49,8 +49,8 @@ function App() {
         <h1>Mannan's Website</h1>
         <hr className="menuBar"></hr>
         <div>
-          <a className="menuButton" onClick={() => setDisplayedPage('LandingPage')}>Landing Page</a>
-          <a className="menuButton" onClick={ setAndLoadPage }>Projects</a>
+          <a className="menuButton" onClick={() => setDisplayedPage('LandingPage')}>Home</a>
+          <a className="menuButton" onClick={ setAndLoadPage }>My Projects</a>
           <a className="menuButton" onClick={() => setDisplayedPage('ContactMe')}>Contact Me</a>
         </div>
         <hr className="menuBar"></hr>

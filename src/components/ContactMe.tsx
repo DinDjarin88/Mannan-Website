@@ -25,8 +25,9 @@ function ContactMe() {
 
         <div className="contact-me-container"> 
             <h1 className="contact-header">
-                Contact Me 
-            </h1>
+                Contact Me (clickable)
+            </h1> 
+            
             <hr className="menu-bar"></hr>
 
             <div className="socials-contain">

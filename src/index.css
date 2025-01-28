@@ -76,7 +76,7 @@ h2 {
 
 .photo {
   flex: 0 0 auto;
-  max-width: 480px;
+  max-width: 30rem;
   max-height: auto;
   object-fit: cover;
   margin-right: 0rem;
